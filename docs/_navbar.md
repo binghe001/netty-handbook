@@ -10,5 +10,5 @@
   - [:ru: Russian](/ru-ru/) 
 -->
 
-* [LeetCode Cookbook](https://books.halfrost.com/leetcode/)
-* [算法小抄](https://labuladong.github.io/algo/)
+* [冰河技术](https://binghe.gitcode.host)
+* [知识星球](https://wx.zsxq.com/group/48848484411888)
